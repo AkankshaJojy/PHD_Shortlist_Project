@@ -1,0 +1,898 @@
+[
+    {
+        "name": "Bennett A. Landman",
+        "institution": "Vanderbilt University",
+        "country": "US",
+        "research_focus": [
+            "Advanced Neuroimaging Techniques and Applications",
+            "Advanced MRI Techniques and Applications",
+            "Functional Brain Connectivity Studies",
+            "Radiomics and Machine Learning in Medical Imaging",
+            "MRI in cancer diagnosis"
+        ],
+        "evidence": {
+            "papers": [
+                "UNETR: Transformers for 3D Medical Image Segmentation",
+                "A large annotated medical image dataset for the development and evaluation of segmentation algorithms",
+                "Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis"
+            ],
+            "citation_count": 25659
+        },
+        "why_match": "Research alignment with Advanced Neuroimaging Techniques and Applications, Advanced MRI Techniques and Applications",
+        "tier": "target"
+    },
+    {
+        "name": "Ehsan Adeli",
+        "institution": "Palo Alto University",
+        "country": "US",
+        "research_focus": [
+            "Human Pose and Action Recognition",
+            "Anomaly Detection Techniques and Applications",
+            "Functional Brain Connectivity Studies",
+            "Machine Learning in Healthcare",
+            "Domain Adaptation and Few-Shot Learning"
+        ],
+        "evidence": {
+            "papers": [
+                "TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation",
+                "Medical Image Segmentation Review: The Success of U-Net",
+                "TransUNet: Rethinking the U-Net architecture design for medical image segmentation through the lens of transformers"
+            ],
+            "citation_count": 14942
+        },
+        "why_match": "Research alignment with Human Pose and Action Recognition, Anomaly Detection Techniques and Applications",
+        "tier": "target"
+    },
+    {
+        "name": "Xiangde Luo",
+        "institution": "Stanford University",
+        "country": "US",
+        "research_focus": [
+            "Radiomics and Machine Learning in Medical Imaging",
+            "Advanced Neural Network Applications",
+            "Medical Image Segmentation Techniques",
+            "AI in cancer detection",
+            "COVID-19 diagnosis using AI"
+        ],
+        "evidence": {
+            "papers": [
+                "TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation",
+                "TransUNet: Rethinking the U-Net architecture design for medical image segmentation through the lens of transformers",
+                "Semi-supervised Medical Image Segmentation through Dual-task Consistency"
+            ],
+            "citation_count": 7696
+        },
+        "why_match": "Research alignment with Radiomics and Machine Learning in Medical Imaging, Advanced Neural Network Applications",
+        "tier": "target"
+    },
+    {
+        "name": "Alan Yuille",
+        "institution": "Johns Hopkins University",
+        "country": "US",
+        "research_focus": [
+            "Advanced Neural Network Applications",
+            "Advanced Image and Video Retrieval Techniques",
+            "Domain Adaptation and Few-Shot Learning",
+            "Advanced Vision and Imaging",
+            "Multimodal Machine Learning Applications"
+        ],
+        "evidence": {
+            "papers": [
+                "TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation",
+                "TransUNet: Rethinking the U-Net architecture design for medical image segmentation through the lens of transformers"
+            ],
+            "citation_count": 100252
+        },
+        "why_match": "Research alignment with Advanced Neural Network Applications, Advanced Image and Video Retrieval Techniques",
+        "tier": "target"
+    },
+    {
+        "name": "Jerry L. Prince",
+        "institution": "Johns Hopkins University",
+        "country": "US",
+        "research_focus": [
+            "Medical Image Segmentation Techniques",
+            "Advanced MRI Techniques and Applications",
+            "Advanced Neuroimaging Techniques and Applications",
+            "Medical Imaging Techniques and Applications",
+            "Fetal and Pediatric Neurological Disorders"
+        ],
+        "evidence": {
+            "papers": [
+                "Current Methods in Medical Image Segmentation",
+                "Medical Imaging Signals and Systems"
+            ],
+            "citation_count": 33384
+        },
+        "why_match": "Research alignment with Medical Image Segmentation Techniques, Advanced MRI Techniques and Applications",
+        "tier": "target"
+    },
+    {
+        "name": "Holger R. Roth",
+        "institution": "Nvidia (United States)",
+        "country": "US",
+        "research_focus": [
+            "Advanced Neural Network Applications",
+            "Radiomics and Machine Learning in Medical Imaging",
+            "Medical Image Segmentation Techniques",
+            "COVID-19 diagnosis using AI",
+            "AI in cancer detection"
+        ],
+        "evidence": {
+            "papers": [
+                "UNETR: Transformers for 3D Medical Image Segmentation",
+                "Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis"
+            ],
+            "citation_count": 22914
+        },
+        "why_match": "Research alignment with Advanced Neural Network Applications, Radiomics and Machine Learning in Medical Imaging",
+        "tier": "target"
+    },
+    {
+        "name": "Daguang Xu",
+        "institution": "Nvidia (United States)",
+        "country": "US",
+        "research_focus": [
+            "Advanced Neural Network Applications",
+            "Radiomics and Machine Learning in Medical Imaging",
+            "COVID-19 diagnosis using AI",
+            "Medical Image Segmentation Techniques",
+            "Privacy-Preserving Technologies in Data"
+        ],
+        "evidence": {
+            "papers": [
+                "UNETR: Transformers for 3D Medical Image Segmentation",
+                "Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis"
+            ],
+            "citation_count": 16726
+        },
+        "why_match": "Research alignment with Advanced Neural Network Applications, Radiomics and Machine Learning in Medical Imaging",
+        "tier": "target"
+    },
+    {
+        "name": "Jianming Liang",
+        "institution": "Arizona State University",
+        "country": "US",
+        "research_focus": [
+            "AI in cancer detection",
+            "COVID-19 diagnosis using AI",
+            "Radiomics and Machine Learning in Medical Imaging",
+            "Atmospheric and Environmental Gas Dynamics",
+            "Colorectal Cancer Screening and Detection"
+        ],
+        "evidence": {
+            "papers": [
+                "UNet++: A Nested U-Net Architecture for Medical Image Segmentation",
+                "Convolutional Neural Networks for Medical Image Analysis: Full Training or Fine Tuning?"
+            ],
+            "citation_count": 22364
+        },
+        "why_match": "Research alignment with AI in cancer detection, COVID-19 diagnosis using AI",
+        "tier": "target"
+    },
+    {
+        "name": "Jun Ma",
+        "institution": "University Health Network",
+        "country": "CA",
+        "research_focus": [
+            "Radiomics and Machine Learning in Medical Imaging",
+            "Medical Image Segmentation Techniques",
+            "Medical Imaging Techniques and Applications",
+            "Advanced Neural Network Applications",
+            "Optical measurement and interference techniques"
+        ],
+        "evidence": {
+            "papers": [
+                "Segment anything in medical images",
+                "Loss odyssey in medical image segmentation"
+            ],
+            "citation_count": 9902
+        },
+        "why_match": "Research alignment with Radiomics and Machine Learning in Medical Imaging, Medical Image Segmentation Techniques",
+        "tier": "target"
+    },
+    {
+        "name": "Yuyin Zhou",
+        "institution": "University of California, Santa Cruz",
+        "country": "US",
+        "research_focus": [
+            "Advanced Neural Network Applications",
+            "Domain Adaptation and Few-Shot Learning",
+            "Medical Image Segmentation Techniques",
+            "COVID-19 diagnosis using AI",
+            "AI in cancer detection"
+        ],
+        "evidence": {
+            "papers": [
+                "TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation",
+                "TransUNet: Rethinking the U-Net architecture design for medical image segmentation through the lens of transformers"
+            ],
+            "citation_count": 11316
+        },
+        "why_match": "Research alignment with Advanced Neural Network Applications, Domain Adaptation and Few-Shot Learning",
+        "tier": "target"
+    },
+    {
+        "name": "Vishwesh Nath",
+        "institution": "Nvidia (United States)",
+        "country": "US",
+        "research_focus": [
+            "Advanced Neuroimaging Techniques and Applications",
+            "Advanced MRI Techniques and Applications",
+            "MRI in cancer diagnosis",
+            "Radiomics and Machine Learning in Medical Imaging",
+            "Advanced Neural Network Applications"
+        ],
+        "evidence": {
+            "papers": [
+                "UNETR: Transformers for 3D Medical Image Segmentation",
+                "Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis"
+            ],
+            "citation_count": 8261
+        },
+        "why_match": "Research alignment with Advanced Neuroimaging Techniques and Applications, Advanced MRI Techniques and Applications",
+        "tier": "target"
+    },
+    {
+        "name": "Joy Chen",
+        "institution": "University of California San Diego",
+        "country": "US",
+        "research_focus": [
+            "Transplantation: Methods and Outcomes",
+            "Congenital Heart Disease Studies",
+            "Chinese history and philosophy",
+            "Lung Cancer Treatments and Mutations",
+            "Medical Coding and Health Information"
+        ],
+        "evidence": {
+            "papers": [
+                "Swin-Unet: Unet-Like Pure Transformer for Medical Image Segmentation",
+                "Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation"
+            ],
+            "citation_count": 5527
+        },
+        "why_match": "Research alignment with Transplantation: Methods and Outcomes, Congenital Heart Disease Studies",
+        "tier": "target"
+    },
+    {
+        "name": "Jieneng Chen",
+        "institution": "Johns Hopkins University",
+        "country": "US",
+        "research_focus": [
+            "Advanced Neural Network Applications",
+            "Radiomics and Machine Learning in Medical Imaging",
+            "AI in cancer detection",
+            "Domain Adaptation and Few-Shot Learning",
+            "COVID-19 diagnosis using AI"
+        ],
+        "evidence": {
+            "papers": [
+                "TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation",
+                "Semi-supervised Medical Image Segmentation through Dual-task Consistency"
+            ],
+            "citation_count": 6007
+        },
+        "why_match": "Research alignment with Advanced Neural Network Applications, Radiomics and Machine Learning in Medical Imaging",
+        "tier": "target"
+    },
+    {
+        "name": "Christos Davatzikos",
+        "institution": "Hospital of the University of Pennsylvania",
+        "country": "US",
+        "research_focus": [
+            "Functional Brain Connectivity Studies",
+            "Dementia and Cognitive Impairment Research",
+            "Advanced Neuroimaging Techniques and Applications",
+            "Medical Image Segmentation Techniques",
+            "Radiomics and Machine Learning in Medical Imaging"
+        ],
+        "evidence": {
+            "papers": [
+                "Deformable Medical Image Registration: A Survey"
+            ],
+            "citation_count": 65644
+        },
+        "why_match": "Research alignment with Functional Brain Connectivity Studies, Dementia and Cognitive Impairment Research",
+        "tier": "target"
+    },
+    {
+        "name": "Robert J. Gillies",
+        "institution": "University of Calgary",
+        "country": "CA",
+        "research_focus": [
+            "Radiomics and Machine Learning in Medical Imaging",
+            "Cancer, Hypoxia, and Metabolism",
+            "Lung Cancer Diagnosis and Treatment",
+            "Medical Imaging Techniques and Applications",
+            "MRI in cancer diagnosis"
+        ],
+        "evidence": {
+            "papers": [
+                "Radiomics: Extracting more information from medical images using advanced feature analysis"
+            ],
+            "citation_count": 81621
+        },
+        "why_match": "Research alignment with Radiomics and Machine Learning in Medical Imaging, Cancer, Hypoxia, and Metabolism",
+        "tier": "target"
+    },
+    {
+        "name": "Hugo J.W.L. Aerts",
+        "institution": "Brigham and Women's Hospital",
+        "country": "US",
+        "research_focus": [
+            "Radiomics and Machine Learning in Medical Imaging",
+            "Lung Cancer Diagnosis and Treatment",
+            "Medical Imaging Techniques and Applications",
+            "Artificial Intelligence in Healthcare and Education",
+            "AI in cancer detection"
+        ],
+        "evidence": {
+            "papers": [
+                "Radiomics: Extracting more information from medical images using advanced feature analysis"
+            ],
+            "citation_count": 61583
+        },
+        "why_match": "Research alignment with Radiomics and Machine Learning in Medical Imaging, Lung Cancer Diagnosis and Treatment",
+        "tier": "target"
+    },
+    {
+        "name": "James S. Duncan",
+        "institution": "Yale University",
+        "country": "US",
+        "research_focus": [
+            "Medical Image Segmentation Techniques",
+            "Medical Imaging Techniques and Applications",
+            "Radiomics and Machine Learning in Medical Imaging",
+            "Cardiac Valve Diseases and Treatments",
+            "Advanced MRI Techniques and Applications"
+        ],
+        "evidence": {
+            "papers": [
+                "Medical image analysis: progress over two decades and the challenges ahead"
+            ],
+            "citation_count": 22691
+        },
+        "why_match": "Research alignment with Medical Image Segmentation Techniques, Medical Imaging Techniques and Applications",
+        "tier": "target"
+    },
+    {
+        "name": "Alan Connelly",
+        "institution": "Mercer University",
+        "country": "US",
+        "research_focus": [
+            "Advanced Neuroimaging Techniques and Applications",
+            "Advanced MRI Techniques and Applications",
+            "Functional Brain Connectivity Studies",
+            "Epilepsy research and treatment",
+            "MRI in cancer diagnosis"
+        ],
+        "evidence": {
+            "papers": [
+                "MRtrix3: A fast, flexible and open software framework for medical image processing and visualisation"
+            ],
+            "citation_count": 34425
+        },
+        "why_match": "Research alignment with Advanced Neuroimaging Techniques and Applications, Advanced MRI Techniques and Applications",
+        "tier": "target"
+    },
+    {
+        "name": "John M. Boone",
+        "institution": "University of California Davis Medical Center",
+        "country": "US",
+        "research_focus": [
+            "Digital Radiography and Breast Imaging",
+            "Medical Imaging Techniques and Applications",
+            "Advanced X-ray and CT Imaging",
+            "Radiation Dose and Imaging",
+            "AI in cancer detection"
+        ],
+        "evidence": {
+            "papers": [
+                "The Essential Physics of Medical Imaging"
+            ],
+            "citation_count": 19253
+        },
+        "why_match": "Research alignment with Digital Radiography and Breast Imaging, Medical Imaging Techniques and Applications",
+        "tier": "target"
+    },
+    {
+        "name": "Paul Babyn",
+        "institution": "University of Saskatchewan",
+        "country": "CA",
+        "research_focus": [
+            "Medical Imaging Techniques and Applications",
+            "Image and Signal Denoising Methods",
+            "Advanced X-ray and CT Imaging",
+            "Advanced MRI Techniques and Applications",
+            "Radiomics and Machine Learning in Medical Imaging"
+        ],
+        "evidence": {
+            "papers": [
+                "Generative adversarial network in medical imaging: A review"
+            ],
+            "citation_count": 18510
+        },
+        "why_match": "Research alignment with Medical Imaging Techniques and Applications, Image and Signal Denoising Methods",
+        "tier": "target"
+    },
+    {
+        "name": "Bradley J. Erickson",
+        "institution": "Mayo Clinic",
+        "country": "US",
+        "research_focus": [
+            "Radiomics and Machine Learning in Medical Imaging",
+            "AI in cancer detection",
+            "Artificial Intelligence in Healthcare and Education",
+            "Glioma Diagnosis and Treatment",
+            "Medical Imaging Techniques and Applications"
+        ],
+        "evidence": {
+            "papers": [
+                "Machine Learning for Medical Imaging"
+            ],
+            "citation_count": 17908
+        },
+        "why_match": "Research alignment with Radiomics and Machine Learning in Medical Imaging, AI in cancer detection",
+        "tier": "target"
+    },
+    {
+        "name": "Dzung L. Pham",
+        "institution": "Henry M. Jackson Foundation",
+        "country": "US",
+        "research_focus": [
+            "Medical Image Segmentation Techniques",
+            "Advanced MRI Techniques and Applications",
+            "Advanced Neuroimaging Techniques and Applications",
+            "Traumatic Brain Injury and Neurovascular Disturbances",
+            "Multiple Sclerosis Research Studies"
+        ],
+        "evidence": {
+            "papers": [
+                "Current Methods in Medical Image Segmentation"
+            ],
+            "citation_count": 15112
+        },
+        "why_match": "Research alignment with Medical Image Segmentation Techniques, Advanced MRI Techniques and Applications",
+        "tier": "target"
+    },
+    {
+        "name": "Guorong Wu",
+        "institution": "University of North Carolina at Chapel Hill",
+        "country": "US",
+        "research_focus": [
+            "Medical Image Segmentation Techniques",
+            "Functional Brain Connectivity Studies",
+            "Advanced Neuroimaging Techniques and Applications",
+            "Brain Tumor Detection and Classification",
+            "Image Retrieval and Classification Techniques"
+        ],
+        "evidence": {
+            "papers": [
+                "Deep Learning in Medical Image Analysis"
+            ],
+            "citation_count": 10844
+        },
+        "why_match": "Research alignment with Medical Image Segmentation Techniques, Functional Brain Connectivity Studies",
+        "tier": "target"
+    },
+    {
+        "name": "Colin Studholme",
+        "institution": "University of Washington",
+        "country": "US",
+        "research_focus": [
+            "Fetal and Pediatric Neurological Disorders",
+            "Advanced Neuroimaging Techniques and Applications",
+            "Medical Image Segmentation Techniques",
+            "Neonatal and fetal brain pathology",
+            "Advanced MRI Techniques and Applications"
+        ],
+        "evidence": {
+            "papers": [
+                "An overlap invariant entropy measure of 3D medical image alignment"
+            ],
+            "citation_count": 18629
+        },
+        "why_match": "Research alignment with Fetal and Pediatric Neurological Disorders, Advanced Neuroimaging Techniques and Applications",
+        "tier": "target"
+    },
+    {
+        "name": "Michael B. Gotway",
+        "institution": "Mayo Clinic in Arizona",
+        "country": "US",
+        "research_focus": [
+            "Medical Imaging and Pathology Studies",
+            "Ultrasound in Clinical Applications",
+            "Interstitial Lung Diseases and Idiopathic Pulmonary Fibrosis",
+            "Venous Thromboembolism Diagnosis and Management",
+            "COVID-19 diagnosis using AI"
+        ],
+        "evidence": {
+            "papers": [
+                "Convolutional Neural Networks for Medical Image Analysis: Full Training or Fine Tuning?"
+            ],
+            "citation_count": 10877
+        },
+        "why_match": "Research alignment with Medical Imaging and Pathology Studies, Ultrasound in Clinical Applications",
+        "tier": "target"
+    },
+    {
+        "name": "Zongwei Zhou",
+        "institution": "Johns Hopkins University",
+        "country": "US",
+        "research_focus": [
+            "AI in cancer detection",
+            "Radiomics and Machine Learning in Medical Imaging",
+            "COVID-19 diagnosis using AI",
+            "Advanced Neural Network Applications",
+            "Medical Image Segmentation Techniques"
+        ],
+        "evidence": {
+            "papers": [
+                "UNet++: A Nested U-Net Architecture for Medical Image Segmentation"
+            ],
+            "citation_count": 20404
+        },
+        "why_match": "Research alignment with AI in cancer detection, Radiomics and Machine Learning in Medical Imaging",
+        "tier": "target"
+    },
+    {
+        "name": "Aristeidis Sotiras",
+        "institution": "Washington University in St. Louis",
+        "country": "US",
+        "research_focus": [
+            "Functional Brain Connectivity Studies",
+            "Dementia and Cognitive Impairment Research",
+            "Advanced Neuroimaging Techniques and Applications",
+            "Medical Image Segmentation Techniques",
+            "Radiomics and Machine Learning in Medical Imaging"
+        ],
+        "evidence": {
+            "papers": [
+                "Deformable Medical Image Registration: A Survey"
+            ],
+            "citation_count": 9751
+        },
+        "why_match": "Research alignment with Functional Brain Connectivity Studies, Dementia and Cognitive Impairment Research",
+        "tier": "target"
+    },
+    {
+        "name": "Hongjie Hu",
+        "institution": "University of California San Diego",
+        "country": "US",
+        "research_focus": [
+            "Radiomics and Machine Learning in Medical Imaging",
+            "AI in cancer detection",
+            "Hepatocellular Carcinoma Treatment and Prognosis",
+            "Medical Image Segmentation Techniques",
+            "Advanced X-ray and CT Imaging"
+        ],
+        "evidence": {
+            "papers": [
+                "UNet 3+: A Full-Scale Connected UNet for Medical Image Segmentation"
+            ],
+            "citation_count": 6610
+        },
+        "why_match": "Research alignment with Radiomics and Machine Learning in Medical Imaging, AI in cancer detection",
+        "tier": "target"
+    },
+    {
+        "name": "Timothy L. Kline",
+        "institution": "Mayo Clinic",
+        "country": "US",
+        "research_focus": [
+            "Genetic and Kidney Cyst Diseases",
+            "Radiomics and Machine Learning in Medical Imaging",
+            "Pediatric Urology and Nephrology Studies",
+            "Artificial Intelligence in Healthcare and Education",
+            "Renal cell carcinoma treatment"
+        ],
+        "evidence": {
+            "papers": [
+                "Machine Learning for Medical Imaging"
+            ],
+            "citation_count": 5650
+        },
+        "why_match": "Research alignment with Genetic and Kidney Cyst Diseases, Radiomics and Machine Learning in Medical Imaging",
+        "tier": "target"
+    },
+    {
+        "name": "J. Anthony Seibert",
+        "institution": "University of California, Davis",
+        "country": "US",
+        "research_focus": [
+            "Radiation Dose and Imaging",
+            "Advanced X-ray and CT Imaging",
+            "Digital Radiography and Breast Imaging",
+            "Medical Imaging Techniques and Applications",
+            "Quantum Chromodynamics and Particle Interactions"
+        ],
+        "evidence": {
+            "papers": [
+                "The Essential Physics of Medical Imaging"
+            ],
+            "citation_count": 6834
+        },
+        "why_match": "Research alignment with Radiation Dose and Imaging, Advanced X-ray and CT Imaging",
+        "tier": "target"
+    },
+    {
+        "name": "Md Mahfuzur Rahman Siddiquee",
+        "institution": "Mayo Clinic in Arizona",
+        "country": "US",
+        "research_focus": [
+            "COVID-19 diagnosis using AI",
+            "Radiomics and Machine Learning in Medical Imaging",
+            "Advanced Neural Network Applications",
+            "Medical Image Segmentation Techniques",
+            "Anomaly Detection Techniques and Applications"
+        ],
+        "evidence": {
+            "papers": [
+                "UNet++: A Nested U-Net Architecture for Medical Image Segmentation"
+            ],
+            "citation_count": 14197
+        },
+        "why_match": "Research alignment with COVID-19 diagnosis using AI, Radiomics and Machine Learning in Medical Imaging",
+        "tier": "target"
+    },
+    {
+        "name": "Chenyu You",
+        "institution": "Rensselaer Polytechnic Institute",
+        "country": "US",
+        "research_focus": [
+            "Topic Modeling",
+            "Natural Language Processing Techniques",
+            "COVID-19 diagnosis using AI",
+            "Medical Image Segmentation Techniques",
+            "Medical Imaging Techniques and Applications"
+        ],
+        "evidence": {
+            "papers": [
+                "Segment anything in medical images"
+            ],
+            "citation_count": 5122
+        },
+        "why_match": "Research alignment with Topic Modeling, Natural Language Processing Techniques",
+        "tier": "target"
+    },
+    {
+        "name": "Muhammad Haris Khan",
+        "institution": "United Health Services",
+        "country": "US",
+        "research_focus": [
+            "Advanced Neural Network Applications",
+            "Video Surveillance and Tracking Methods",
+            "Domain Adaptation and Few-Shot Learning",
+            "Face recognition and analysis",
+            "Multimodal Machine Learning Applications"
+        ],
+        "evidence": {
+            "papers": [
+                "Transformers in medical imaging: A survey"
+            ],
+            "citation_count": 3697
+        },
+        "why_match": "Research alignment with Advanced Neural Network Applications, Video Surveillance and Tracking Methods",
+        "tier": "target"
+    },
+    {
+        "name": "Panagiotis Korfiatis",
+        "institution": "WinnMed",
+        "country": "US",
+        "research_focus": [
+            "Radiomics and Machine Learning in Medical Imaging",
+            "Artificial Intelligence in Healthcare and Education",
+            "AI in cancer detection",
+            "Glioma Diagnosis and Treatment",
+            "MRI in cancer diagnosis"
+        ],
+        "evidence": {
+            "papers": [
+                "Machine Learning for Medical Imaging"
+            ],
+            "citation_count": 4848
+        },
+        "why_match": "Research alignment with Radiomics and Machine Learning in Medical Imaging, Artificial Intelligence in Healthcare and Education",
+        "tier": "target"
+    },
+    {
+        "name": "Zeynettin Akkus",
+        "institution": "Jacksonville College",
+        "country": "US",
+        "research_focus": [
+            "Cerebrovascular and Carotid Artery Diseases",
+            "AI in cancer detection",
+            "Cardiovascular Health and Disease Prevention",
+            "Radiomics and Machine Learning in Medical Imaging",
+            "Coronary Interventions and Diagnostics"
+        ],
+        "evidence": {
+            "papers": [
+                "Machine Learning for Medical Imaging"
+            ],
+            "citation_count": 4913
+        },
+        "why_match": "Research alignment with Cerebrovascular and Carotid Artery Diseases, AI in cancer detection",
+        "tier": "target"
+    },
+    {
+        "name": "R. Todd Hurst",
+        "institution": "Mayo Clinic in Arizona",
+        "country": "US",
+        "research_focus": [
+            "Cardiovascular Health and Disease Prevention",
+            "Cardiac Imaging and Diagnostics",
+            "Cerebrovascular and Carotid Artery Diseases",
+            "Cardiovascular Function and Risk Factors",
+            "Blood Pressure and Hypertension Studies"
+        ],
+        "evidence": {
+            "papers": [
+                "Convolutional Neural Networks for Medical Image Analysis: Full Training or Fine Tuning?"
+            ],
+            "citation_count": 7838
+        },
+        "why_match": "Research alignment with Cardiovascular Health and Disease Prevention, Cardiac Imaging and Diagnostics",
+        "tier": "target"
+    },
+    {
+        "name": "Chun‐Hung Yeh",
+        "institution": "Memorial Hospital of South Bend",
+        "country": "US",
+        "research_focus": [
+            "Advanced Neuroimaging Techniques and Applications",
+            "Advanced MRI Techniques and Applications",
+            "Functional Brain Connectivity Studies",
+            "Fetal and Pediatric Neurological Disorders",
+            "Autism Spectrum Disorder Research"
+        ],
+        "evidence": {
+            "papers": [
+                "MRtrix3: A fast, flexible and open software framework for medical image processing and visualisation"
+            ],
+            "citation_count": 5446
+        },
+        "why_match": "Research alignment with Advanced Neuroimaging Techniques and Applications, Advanced MRI Techniques and Applications",
+        "tier": "target"
+    },
+    {
+        "name": "Ekta Walia",
+        "institution": "University of Saskatchewan",
+        "country": "CA",
+        "research_focus": [
+            "Image Retrieval and Classification Techniques",
+            "Advanced Image and Video Retrieval Techniques",
+            "Face and Expression Recognition",
+            "Advanced Steganography and Watermarking Techniques",
+            "Medical Image Segmentation Techniques"
+        ],
+        "evidence": {
+            "papers": [
+                "Generative adversarial network in medical imaging: A review"
+            ],
+            "citation_count": 3539
+        },
+        "why_match": "Research alignment with Image Retrieval and Classification Techniques, Advanced Image and Video Retrieval Techniques",
+        "tier": "target"
+    },
+    {
+        "name": "Tim McInerney",
+        "institution": "Toronto Metropolitan University",
+        "country": "CA",
+        "research_focus": [
+            "Medical Image Segmentation Techniques",
+            "Computer Graphics and Visualization Techniques",
+            "3D Shape Modeling and Analysis",
+            "Cell Image Analysis Techniques",
+            "AI in cancer detection"
+        ],
+        "evidence": {
+            "papers": [
+                "Deformable models in medical image analysis: a survey"
+            ],
+            "citation_count": 4703
+        },
+        "why_match": "Research alignment with Medical Image Segmentation Techniques, Computer Graphics and Visualization Techniques",
+        "tier": "target"
+    },
+    {
+        "name": "Mark P. Holden",
+        "institution": "Western University",
+        "country": "CA",
+        "research_focus": [
+            "Spatial Cognition and Navigation",
+            "Medical Image Segmentation Techniques",
+            "Medical Imaging Techniques and Applications",
+            "Categorization, perception, and language",
+            "Advanced MRI Techniques and Applications"
+        ],
+        "evidence": {
+            "papers": [
+                "Medical image registration"
+            ],
+            "citation_count": 3435
+        },
+        "why_match": "Research alignment with Spatial Cognition and Navigation, Medical Image Segmentation Techniques",
+        "tier": "target"
+    },
+    {
+        "name": "Christopher B. Kendall",
+        "institution": "Mayo Clinic in Arizona",
+        "country": "US",
+        "research_focus": [
+            "Cardiovascular Health and Disease Prevention",
+            "Cerebrovascular and Carotid Artery Diseases",
+            "Cardiac Valve Diseases and Treatments",
+            "Medical Image Segmentation Techniques",
+            "Blood Pressure and Hypertension Studies"
+        ],
+        "evidence": {
+            "papers": [
+                "Convolutional Neural Networks for Medical Image Analysis: Full Training or Fine Tuning?"
+            ],
+            "citation_count": 5893
+        },
+        "why_match": "Research alignment with Cardiovascular Health and Disease Prevention, Cerebrovascular and Carotid Artery Diseases",
+        "tier": "target"
+    },
+    {
+        "name": "Jerrold T. Bushberg",
+        "institution": "University of California, Davis",
+        "country": "US",
+        "research_focus": [
+            "Radiation Dose and Imaging",
+            "Radiopharmaceutical Chemistry and Applications",
+            "Advances in Oncology and Radiotherapy",
+            "Electromagnetic Fields and Biological Effects",
+            "Effects of Radiation Exposure"
+        ],
+        "evidence": {
+            "papers": [
+                "The Essential Physics of Medical Imaging"
+            ],
+            "citation_count": 2989
+        },
+        "why_match": "Research alignment with Radiation Dose and Imaging, Radiopharmaceutical Chemistry and Applications",
+        "tier": "target"
+    },
+    {
+        "name": "Feifei Li",
+        "institution": "University Health Network",
+        "country": "CA",
+        "research_focus": [
+            "AI in cancer detection",
+            "Image Retrieval and Classification Techniques",
+            "Advanced Neural Network Applications",
+            "Medical Image Segmentation Techniques",
+            "Video Surveillance and Tracking Methods"
+        ],
+        "evidence": {
+            "papers": [
+                "Segment anything in medical images"
+            ],
+            "citation_count": 2457
+        },
+        "why_match": "Research alignment with AI in cancer detection, Image Retrieval and Classification Techniques",
+        "tier": "target"
+    },
+    {
+        "name": "Edward Goldschmidt",
+        "institution": "Cooper Medical School of Rowan University",
+        "country": "US",
+        "research_focus": [
+            "Advanced Radiotherapy Techniques",
+            "COVID-19 Clinical Research Studies",
+            "Glioma Diagnosis and Treatment",
+            "COVID-19 and Mental Health",
+            "Sarcoma Diagnosis and Treatment"
+        ],
+        "evidence": {
+            "papers": [
+                "The Essential Physics of Medical Imaging"
+            ],
+            "citation_count": 2020
+        },
+        "why_match": "Research alignment with Advanced Radiotherapy Techniques, COVID-19 Clinical Research Studies",
+        "tier": "target"
+    }
+]
