@@ -1,0 +1,7 @@
+requests
+pandas
+sentence-transformers
+scikit-learn
+openai
+tqdm
+python-dotenv
